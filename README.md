@@ -1,9 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=header&text=Muhammad%20Fasih%20Ud%20Din&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=AI%20Security%20Researcher%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20CS%20@%20ITU%20Lahore&descAlignY=60&descSize=14&descColor=94A3B8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3B82F6&height=120&section=header&text=Muhammad%20Fasih%20Ud%20Din&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=AI%20Security%20Researcher%20%C2%B7%20API%20Integration%20%26%20Automation%20Specialist%20%C2%B7%20CS%20@%20ITU%20Lahore&descAlignY=60&descSize=14&descColor=94A3B8" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-fasih.dev-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://fasih-alpha.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-fasih-ud-din-b50323323)
+[![Upwork](https://img.shields.io/badge/Upwork-API%20Integration%20%26%20AI%20Automation-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fasihuddin.moin@gmail.com)
 
 </div>
@@ -12,8 +13,9 @@
 
 ### 👋 About Me
 
-I'm a third-year CS student at **Information Technology University, Lahore** focused on AI security research, full-stack development, and systems programming.
+I'm a third-year CS student at **Information Technology University, Lahore** focused on AI security research, API integration & automation, and full-stack development.
 
+- 🔌 **Automation Builder** — Freelance **API Integration & AI Automation Expert** on Upwork; build with n8n, Make, and Zapier for speed, and drop into custom Python when no-code tools can't handle the edge cases
 - 🔬 **Researcher** — Author of *The Semantic Void*, proposing **SAITM**: a semantic-aware defense framework against LLM-enabled insider threats
 - 🤖 **AI Builder** — Shipped [LeadIQ](https://github.com/fasih-moin/lead-iq), an AI lead qualification agent powered by Google Gemini, and [Learn-AI-LMS](https://github.com/fasih-moin/learn-ai-lms) with Claude API integration
 - ⚙️ **Engineer** — Comfortable across the full stack: TypeScript/React frontends, Django/FastAPI backends, Docker pipelines, and GitHub Actions CI/CD
@@ -53,6 +55,15 @@ I'm a third-year CS student at **Information Technology University, Lahore** foc
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
+**API Integration & Automation**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-000000?style=flat-square&logo=webhooks&logoColor=white)
+![OAuth](https://img.shields.io/badge/OAuth-3C3C3D?style=flat-square&logo=auth0&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
+
 **AI & LLM**
 
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white)
@@ -67,6 +78,53 @@ I'm a third-year CS student at **Information Technology University, Lahore** foc
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux_CLI-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+### 💼 API Integration & AI Automation (Upwork)
+
+<table>
+<tr>
+<td>
+
+> **API Integration & AI Automation Expert | n8n, Make, Zapier, Python**
+>
+> I help businesses connect their tools, automate repetitive workflows, and add AI where it actually earns its keep. I use no-code platforms for speed, and write custom Python for the parts they can't handle — auth flows, pagination, rate limits, webhooks, and retries.
+
+**What I build:**
+- 🔗 **Integrations** — Shopify, Stripe, QuickBooks, HubSpot, Slack, Google Workspace, and more
+- ⚡ **Workflow Automation** — lead routing, invoice follow-ups, onboarding sequences, inventory alerts (n8n / Make / Zapier)
+- 🤖 **AI Agents & LLM Workflows** — support ticket triage, document/invoice data extraction, lead qualification, content repurposing, human-reviewed automated responses (Claude / GPT)
+- 🐍 **Custom Python** — for anything no-code tools can't reliably do
+
+**Flagship build — Resilient Webhook Processor**
+Started in n8n, hit its limits, and dropped down to Python for the piece that needed it: webhook signature verification, idempotency-key deduplication, exponential backoff retries, and full logging — built for integrations that can't afford to drop or duplicate an event.
+
+**How I work:** understand the underlying problem before picking a tool, scope the solution honestly (including telling a client when automation *won't* help), build with error handling/logging/security from the start, and document clearly so clients aren't locked into needing me.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🔬 Research
+
+<table>
+<tr>
+<td>
+
+> **The Semantic Void: LLM-Enabled Insider Threats & the Failure of Traditional Security Controls**
+>
+> *Independent Research · 2025 · Manuscript complete — available on request*
+>
+> Identified a novel class of AI-driven attacks where insiders use LLMs to paraphrase sensitive data, bypassing DLP, EDR, and DFIR controls entirely. Proposed **SAITM (Semantic-Aware Insider Threat Mitigation)** — a defense framework using vector embeddings, cosine similarity, and intent-aware prompt analysis to detect meaning-preserving exfiltration. Currently building the proof-of-concept.
+>
+> *Cited 12 sources including 2025 arXiv papers + reports from Cyberhaven, Lakera AI, and Palo Alto Networks Unit 42.*
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -116,7 +174,7 @@ CRM backend for lead tracking, pipeline management, and contacts with a clean Dj
 <tr>
 <td width="50%" valign="top">
 
-**[⚙️ Distributed Systems Portfolio](https://github.com/fasih-moin/distributed-leader-election)**
+**⚙️ Distributed Systems Portfolio**
 
 Leader Election (Bully + Ring algorithms) and Logical Clocks + Split-Brain Simulator (Lamport + Vector clocks).
 
@@ -130,26 +188,6 @@ Leader Election (Bully + Ring algorithms) and Logical Clocks + Split-Brain Simul
 Static + dynamic Windows binary analysis using **x64dbg** and **PE-Bear**. Analyzed event log bypass techniques and documented anti-forensics detection signatures.
 
 `x64dbg` `PE-Bear` `Python` `HexStrike AI`
-
-</td>
-</tr>
-</table>
-
----
-
-### 🔬 Research
-
-<table>
-<tr>
-<td>
-
-> **The Semantic Void: LLM-Enabled Insider Threats & the Failure of Traditional Security Controls**
->
-> *Independent Research · 2025 · Manuscript complete — available on request*
->
-> Identified a novel class of AI-driven attacks where insiders use LLMs to paraphrase sensitive data, bypassing DLP, EDR, and DFIR controls entirely. Proposed **SAITM (Semantic-Aware Insider Threat Mitigation)** — a defense framework using vector embeddings, cosine similarity, and intent-aware prompt analysis to detect meaning-preserving exfiltration. Currently building the proof-of-concept.
->
-> *Cited 12 sources including 2025 arXiv papers + reports from Cyberhaven, Lakera AI, and Palo Alto Networks Unit 42.*
 
 </td>
 </tr>
