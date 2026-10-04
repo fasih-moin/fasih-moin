@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6FDA44&height=120&section=header&text=Muhammad%20Fasih%20Ud%20Din&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=API%20Integration%20%26%20AI%20Automation%20Expert%20%C2%B7%20n8n%20%C2%B7%20Make%20%C2%B7%20Zapier%20%C2%B7%20Python&descAlignY=60&descSize=14&descColor=94A3B8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=6FDA44&amp;height=120&amp;section=header&amp;text=Muhammad%20Fasih%20Ud%20Din&amp;fontSize=32&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=API%20Integration%20%26%20AI%20Automation%20Expert%20%C2%B7%20n8n%20%C2%B7%20Make%20%C2%B7%20Zapier%20%C2%B7%20Python&amp;descAlignY=60&amp;descSize=14&amp;descColor=94A3B8" />
 
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](#)
 [![Portfolio](https://img.shields.io/badge/Portfolio-fasih.dev-3B82F6?style=for-the-badge&logo=vercel&logoColor=white)](https://fasih-alpha.vercel.app/)
