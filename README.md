@@ -8,7 +8,7 @@
 
 <br/>
 
-<a href="YOUR_UPWORK_PROFILE_URL"><img src="https://img.shields.io/badge/Hire%20me%20on-Upwork-6FDA44?style=for-the-badge&amp;logo=upwork&amp;logoColor=white" alt="Upwork" /></a>
+<a href="https://www.upwork.com/freelancers/~01fa95abe28de539de?mp_source=share"><img src="https://img.shields.io/badge/Hire%20me%20on-Upwork-6FDA44?style=for-the-badge&amp;logo=upwork&amp;logoColor=white" alt="Upwork" /></a>
 <a href="https://fasih-alpha.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-fasih--alpha.vercel.app-0F172A?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/muhammad-fasih-ud-din-b50323323"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:fasihuddin.moin@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
