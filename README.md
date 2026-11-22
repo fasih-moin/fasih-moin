@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,100:6FDA44&amp;height=170&amp;section=header&amp;text=Muhammad%20Fasih%20Ud%20Din&amp;fontSize=38&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=API%20Integration%20%26%20AI%20Automation&amp;descAlignY=58&amp;descSize=16&amp;descColor=E2E8F0&amp;animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,100:6FDA44&amp;height=170&amp;section=header&amp;text=Muhammad%20Fasih%20Ud%20Din&amp;fontSize=38&amp;fontColor=ffffff&amp;fontAlignY=36&amp;desc=API%20Integration%20and%20AI%20Automation&amp;descAlignY=58&amp;descSize=16&amp;descColor=E2E8F0&amp;animation=fadeIn" width="100%" />
 
 <a href="https://fasih-alpha.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;pause=1200&amp;color=6FDA44&amp;center=true&amp;vCenter=true&amp;width=620&amp;lines=I+connect+your+tools+so+data+moves+on+its+own.;n8n+%C2%B7+Make+%C2%B7+Zapier+%E2%80%94+and+Python+when+they+hit+a+wall.;AI+workflows+that+actually+earn+their+keep." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=18&amp;pause=1200&amp;color=6FDA44&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=I+connect+your+tools+so+data+moves+itself.;n8n%2C+Make%2C+Zapier+and+Python+when+they+hit+a+wall.;RAG+and+AI+agents+that+earn+their+keep." alt="Typing intro" />
 </a>
 
 <br/>
@@ -118,7 +118,7 @@ flowchart LR
 | **APIs & integration** | ![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=swagger&logoColor=white) ![Webhooks](https://img.shields.io/badge/Webhooks-000000?style=flat-square&logo=webhooks&logoColor=white) ![OAuth](https://img.shields.io/badge/OAuth%202.0-3C3C3D?style=flat-square&logo=auth0&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
 | **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white) |
 | **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
-| **AI & LLMs** | ![Claude](https://img.shields.io/badge/Claude%20API-CC785C?style=flat-square&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-F59E0B?style=flat-square&logo=bookstack&logoColor=white) |
+| **AI & LLMs** | ![Claude](https://img.shields.io/badge/Claude%20API-CC785C?style=flat-square&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=flat-square&logo=elasticsearch&logoColor=white) ![AI Agents](https://img.shields.io/badge/AI%20Agents-10B981?style=flat-square&logo=probot&logoColor=white) ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-F59E0B?style=flat-square&logo=bookstack&logoColor=white) |
 
 ## 🔄 How a project with me goes
 
@@ -130,12 +130,33 @@ flowchart LR
 
 ## 🏆 Certifications
 
-| | Certification |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 AI & Automation**
+
+| | |
 |:-:|---|
-| <img src="https://cdn.simpleicons.org/google/4285F4" width="20" /> | **Google Cybersecurity Professional Certificate** |
-| <img src="https://cdn.simpleicons.org/ibm/052FAD" width="20" /> | **IBM: Generative AI for Cybersecurity** |
-| <img src="https://cdn.simpleicons.org/coursera/0056D2" width="20" /> | **AI Security Specialization** |
-| <img src="https://cdn.simpleicons.org/google/4285F4" width="20" /> | **Google AI Essentials** |
+| <img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square" alt="IBM" /> | **IBM: Building AI Agents and Agentic Workflows** |
+| <img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square" alt="IBM" /> | **IBM: RAG for Generative AI Applications** |
+| <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&amp;logo=google&amp;logoColor=white" alt="Google" /> | **Google IT Automation with Python** |
+| <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&amp;logo=google&amp;logoColor=white" alt="Google" /> | **Google AI Essentials** |
+
+</td>
+<td width="50%" valign="top">
+
+**🛡️ Security**
+
+| | |
+|:-:|---|
+| <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&amp;logo=google&amp;logoColor=white" alt="Google" /> | **Google Cybersecurity Professional Certificate** |
+| <img src="https://img.shields.io/badge/IBM-052FAD?style=flat-square" alt="IBM" /> | **IBM: Generative AI for Cybersecurity** |
+| <img src="https://img.shields.io/badge/Coursera-0056D2?style=flat-square&amp;logo=coursera&amp;logoColor=white" alt="Coursera" /> | **AI Security Specialization** |
+
+</td>
+</tr>
+</table>
 
 <br/>
 
