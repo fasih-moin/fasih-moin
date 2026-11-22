@@ -81,35 +81,6 @@ For what no-code can't reliably handle: complex auth flows, high-volume webhook 
 </tr>
 </table>
 
-## 🚀 Flagship build: Resilient Webhook Processor
-
-> It started in n8n and hit a wall, so I rewrote the one piece that needed it in Python.
-> It's built for integrations that can't afford to **silently drop** or **silently duplicate** an event.
-
-```mermaid
-flowchart LR
-    A([Incoming webhook]) --> B{Signature valid?}
-    B -- No --> R[Reject and log]
-    B -- Yes --> C{Idempotency key seen before?}
-    C -- Yes --> D[Acknowledge and skip duplicate]
-    C -- No --> E[Process event]
-    E --> F{Downstream OK?}
-    F -- No --> G[Retry with exponential backoff]
-    G --> E
-    F -- Yes --> H([Store key and log success])
-```
-
-| Feature | Why it matters |
-|---|---|
-| ✅ **Signature verification** | Only trusted senders get processed |
-| ✅ **Idempotency-key dedup** | Retried events never run twice |
-| ✅ **Exponential backoff retries** | Downstream hiccups don't lose data |
-| ✅ **Full audit logging** | Every event is traceable when debugging |
-
-<p>
-  <a href="YOUR_WEBHOOK_PROCESSOR_REPO_URL"><img src="https://img.shields.io/badge/View%20the%20code-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View the code" /></a>
-</p>
-
 ## 🛠 Tech stack
 
 | Area | Tools |
