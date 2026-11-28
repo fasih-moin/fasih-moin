@@ -137,7 +137,7 @@ For what no-code can't reliably handle: complex auth flows, high-volume webhook 
 
 **Tell me about it. I'll tell you honestly whether it's worth automating.**
 
-<a href="YOUR_UPWORK_PROFILE_URL"><img src="https://img.shields.io/badge/Start%20a%20project-6FDA44?style=for-the-badge&amp;logo=upwork&amp;logoColor=white" alt="Start a project" /></a>
+<a href="https://www.upwork.com/freelancers/~01fa95abe28de539de?mp_source=share"><img src="https://img.shields.io/badge/Start%20a%20project-6FDA44?style=for-the-badge&amp;logo=upwork&amp;logoColor=white" alt="Start a project" /></a>
 <a href="mailto:fasihuddin.moin@gmail.com"><img src="https://img.shields.io/badge/fasihuddin.moin%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6FDA44,100:0F172A&amp;height=100&amp;section=footer" width="100%" />
